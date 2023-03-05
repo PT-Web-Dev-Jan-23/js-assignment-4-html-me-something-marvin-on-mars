@@ -1,1 +1,23 @@
-/* Write your CSS here! */
+
+  body {
+    margin: 8px
+    padding: 1.25em
+  }
+  #mainHeading {
+    color: red;
+  }
+  #testP.funParagraph {
+    color: green
+  }
+  html {
+    background-color: antiquewhite;
+  }
+  nav ul li {
+    display: inline-block;
+    margin-right: 1em;
+    font-size: 1em;
+
+ }
+ nav ul {
+  text-align: center;
+ }
